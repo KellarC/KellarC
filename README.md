@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kellarc&label=Profile%20views&color=0e75b6&style=flat" alt="kellarc" /> </p>
 
-- 🌱 I’m currently learning **Java SpringBoot**
+- 🌱 I’m currently learning : **Java SpringBoot**
 
-- 📫 How to reach me **kellarcarson@gmail.com**
+- 📫 How to reach me : **kellarcarson@gmail.com**
 
-- ⚡ Fun fact **Avid weightlifter**
+- ⚡ Fun fact : **avid weightlifter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
