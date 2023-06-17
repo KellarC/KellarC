@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kellarc&label=Profile%20views&color=0e75b6&style=flat" alt="kellarc" /> </p>
 
-- 🌱 I’m currently learning : **Java SpringBoot**
+- 🌱 I’m currently learning : **Java SpringBoot, Open Source Contribution**
 
 - 📫 How to reach me : **kellarcarson@gmail.com**
 
