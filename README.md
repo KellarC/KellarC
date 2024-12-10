@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kellar Carson</h1>
-<h3 align="center">wannabe software developer</h3>
+<h3 align="center">2024 Computer Science Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kellarc&label=Profile%20views&color=0e75b6&style=flat" alt="kellarc" /> </p>
 
-- 🌱 I’m currently learning : **Agile development**
+- 🌱 I’m currently learning : **Java Back-End Software Development**
 
 - 📫 How to reach me : **kellarcarson@gmail.com**
 
